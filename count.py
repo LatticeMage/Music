@@ -2,9 +2,12 @@ import os
 
 def count_md_files(directory="."):
     """
-    Count the number of .md files in the given directory, excluding README.md.
+    Recursively count the number of .md files in the given directory and its subdirectories, excluding README.md.
     """
-    return sum(1 for filename in os.listdir(directory) if filename.endswith('.md') and filename != "README.md")
+    count = 0
+    for dirpath, dirnames, filenames in os.walk(directory):
+        count += sum(1 for filename in filenames if filename.endswith('.md') and os.path.join(dirpath, filename) != "./README.md")
+    return count
 
 def update_readme(number):
     """
