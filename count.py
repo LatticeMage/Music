@@ -6,7 +6,7 @@ def count_md_files(directory="."):
     """
     count = 0
     for dirpath, dirnames, filenames in os.walk(directory):
-        count += sum(1 for filename in filenames if filename.endswith('.md') and os.path.join(dirpath, filename) != "./README.md")
+        count += sum(1 for filename in filenames if filename.endswith('.md'))
     return count
 
 def update_readme(number):
