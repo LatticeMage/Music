@@ -1,9 +1,5 @@
-
----
-tags:
-  - [[Distant Dream]]
-  - [[Post]]
-  - [[Djent]]
-  - [[Metal]]
-  - [[Progressive]]
----
+[[Distant-Dream]]
+[[Post]]
+[[Djent]]
+[[Metal]]
+[[Progressive]]
