@@ -1,25 +1,25 @@
 ---
-number:35
+number:38
 ---
 
 # Music
 
 
 ## Creaters
-[[Peritune]]
+* Peritune
 
 
 ## Types
-[[Flamenco]]
-[[March]]
-[[Orchestra]]
-[[Pipe-Organ]]
+* Flamenco
+* March
+* Orchestra
+* Pipe-Organ
 
 ## Feelings
-[[Triumph]]
-[[Fairy]]
-[[Moon]]
-[[Toy-Castle]]
-[[Happy]]
-[[Joyful]]
-[[Uncertainty]]
+* Triumph
+* Fairy
+* Moon
+* Toy-Castle
+* Happy
+* Joyful
+* Uncertainty
