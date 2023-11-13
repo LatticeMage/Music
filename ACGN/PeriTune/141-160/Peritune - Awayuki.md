@@ -1,7 +1,3 @@
-# Peritune - Awayuki
-
-[[Peritune]]
-
 [[和風]]
 [[hip-hop]]
 
